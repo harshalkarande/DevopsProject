@@ -1,1 +1,1 @@
-Everything is fine and working.
+Everything is fine and working with Continuous Integration
