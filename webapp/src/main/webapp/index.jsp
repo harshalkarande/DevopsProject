@@ -1,1 +1,1 @@
-our firt CI Promt
+Continuous Integration
